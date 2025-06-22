@@ -1,5 +1,5 @@
 
-# Namaste! I’m Ujjwal, bending time and space.… and your code :) <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hey! I’m Ujjwal, bending time and space.… and your code :) <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
 ![](https://komarev.com/ghpvc/?username=UjjwalPamecha&color=blue)<br>
