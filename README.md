@@ -9,10 +9,10 @@
 ###  💫  Insanely Passionate and Ambitious Programmer 🚀<br>
 
 - 👨‍🏭 Currently "enduring" my journey through **B.Tech in Computer Science** at Lovely Professional University.</b> <br>
-- 🏫 "Mastering" the mystical arts of **Data Structures and Algorithms** while trying not to pull my hair out over **Java**.</b> <br>
+- 🏫 "Mastering" the mystical arts of **Data Analytics** while trying not to pull my hair out over **Python**.</b> <br>
 - 🙌 "Humbly seeking" opportunities to collaborate on **Data Science** projects because who doesn't enjoy playing with data?</b> <br>
-- 🤔 Desperately in need of "guidance" in **Backend Development** because apparently, it's more complicated than rocket science.</b><br>
-- 🥅 Future goals include "world domination through open source contributions" and "unlocking the secrets of DSA & Software Development" (if I survive this semester).</b> <br>
+- 🤔 Desperately in need of "guidance" in **Artificial Intelligence** because apparently, it's more complicated than rocket science.</b><br>
+- 🥅 Future goals include "world domination through open source contributions" and "unlocking the secrets of Data Science" (if I survive this semester).</b> <br>
 
 
 ### 🕵 Social Media Handles!<br>
@@ -39,9 +39,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/SQL-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Machine Learning-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Machine Learning-F7DF1E?logo=white&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Hadoop-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Hadoop-4479A1?logo=Hadoop&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo"  />
   <img width="12" />
@@ -57,9 +57,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Data Warehousing-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="35" alt="wordpress logo"  />
+  <img src="https://img.shields.io/badge/Data Warehousing-21759B?logo=white&logoColor=white&style=for-the-badge" height="35" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Git-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="35" alt="bash logo"  />
+  <img src="https://img.shields.io/badge/Git-4EAA25?logo=Git&logoColor=white&style=for-the-badge" height="35" alt="bash logo"  />
 </div>
 <br>
 
