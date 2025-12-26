@@ -1,89 +1,117 @@
+# Hi, I’m Ujjwal Pamecha 👋  
+### Data Analyst Lead | Aspiring Data Engineer | SQL • Python • Spark
 
-# Hey! I’m Ujjwal, bending time and space.… and your code :) <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
-<br>
+![](https://komarev.com/ghpvc/?username=UjjwalPamecha&color=0e75b6&style=flat-square)
 
-![](https://komarev.com/ghpvc/?username=UjjwalPamecha&color=blue)<br>
+---
 
+## 👨‍💻 About Me
 
+I am a **Data Analyst Lead** with hands-on experience in **data extraction, analytics, and reporting systems**, currently transitioning toward **Data Engineering**.
 
-###  💫  Insanely Passionate and Ambitious Programmer 🚀<br>
+I work with **real-world datasets**, design **SQL and Python-based data pipelines**, and build **analytical and reporting solutions** that support business decision-making.  
+My current focus is on strengthening **scalable data processing and big data fundamentals**.
 
-- 👨‍🏭 Currently "enduring" my journey through **B.Tech in Computer Science** at Lovely Professional University.</b> <br>
-- 🏫 "Mastering" the mystical arts of **Data Analytics** while trying not to pull my hair out over **Python**.</b> <br>
-- 🙌 "Humbly seeking" opportunities to collaborate on **Data Science** projects because who doesn't enjoy playing with data?</b> <br>
-- 🤔 Desperately in need of "guidance" in **Artificial Intelligence** because apparently, it's more complicated than rocket science.</b><br>
-- 🥅 Future goals include "world domination through open source contributions" and "unlocking the secrets of Data Science" (if I survive this semester).</b> <br>
+- 🎓 B.Tech in Computer Science — **Lovely Professional University**
+- 💼 Data Analyst Lead at **Omnexia Technologies**
+- 🔄 Transitioning from **Data Analytics → Data Engineering**
+- 📊 Strong foundation in **SQL, Python, data quality, and reporting**
 
+---
 
-### 🕵 Social Media Handles!<br>
+## 💼 Professional Experience
+
+### **Data Analyst Lead**  
+**Omnexia Technologies** — Bengaluru, India  
+**November 2024 – Present**
+
+- Led and mentored junior data analysts and interns, ensuring high data accuracy and timely delivery.  
+- Designed and executed **end-to-end data extraction pipelines** using **SQL and Python** to collect large-scale, real-world data from databases, APIs, and web sources.  
+- Built and optimized **complex SQL queries** (joins, CTEs, subqueries, window functions) for data cleaning, transformation, and validation.  
+- Developed **interactive dashboards and reports** using **Power BI and Tableau** to track KPIs, trends, and operational performance.  
+- Defined **data quality checks, validation rules, and documentation standards**, improving reliability across reports.  
+- Collaborated with product, operations, and management teams to translate business requirements into actionable analytics solutions.  
+- Automated recurring data collection and reporting tasks using **Python and SQL**, reducing manual effort and turnaround time.  
+- Oversaw structured data collection initiatives (200–300+ records per project) with daily progress tracking.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Querying
+- Python | SQL | R | Java (basic)
+
+### ⚙️ Data Processing & Engineering
+- SQL-based ETL pipelines  
+- Data extraction from APIs, databases, and web sources  
+- Data cleaning, normalization, and validation  
+- Apache Spark (foundational / learning)
+
+### 🗄️ Databases & Big Data
+- PostgreSQL  
+- Hadoop (fundamentals)  
+- Data warehousing concepts  
+
+### 📊 Visualization & BI
+- Power BI  
+- Tableau  
+- Microsoft Excel  
+- Matplotlib  
+
+---
+
+## 🚀 Projects (As Per Resume)
+
+### 🔹 Product Demand Prediction Using External Factors
+- Developed a predictive model to forecast product demand for an e-commerce platform.  
+- Utilized historical sales data along with external factors such as **weather, holidays, promotions, and socio-economic indicators**.  
+- Simulated real-world e-commerce demand fluctuations to analyze customer behavior and sales patterns.  
+- Provided data-driven insights to support **inventory planning and marketing strategies**.  
+
+**Technologies:** Python (Pandas, NumPy, Scikit-learn), Tableau  
+
+---
+
+### 🔹 Customer Segmentation for an E-commerce Store
+- Designed a **SQL-based customer segmentation model** using transactional data.  
+- Classified customers into **High-, Medium-, and Low-Value segments** based on spending and order frequency.  
+- Identified one-time buyers and repeat customers to improve retention strategies.  
+- Created a **Loyalty Score metric** using CTEs and CASE statements.  
+
+**Technologies:** SQL, Tableau  
+
+---
+
+### 🔹 Sugarcane Production Analysis
+- Conducted a data-driven analysis to optimize sugarcane yield and operational efficiency.  
+- Collected, processed, and validated agricultural production data.  
+- Applied **statistical modeling** to identify key factors influencing production.  
+- Delivered insights to support operational improvements.  
+
+**Technologies:** Python, Tableau  
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening **SQL & Python-based data pipelines**  
+- Building foundation in **Apache Spark and large-scale data processing**  
+- Preparing for **Data Engineer roles** through project-based learning  
+
+---
+
+## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ujjwalpamecha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ujjwal-pamecha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://leetcode.com/u/0022ujjwalpamecha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="leetcode logo"  />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  <a href="https://github.com/UjjwalPamecha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
-<br>
 
-### Languages: 
-<div align="left">
- 
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JAVA-276DC3?logo=r&logoColor=white&style=for-the-badge" height="35" alt="r logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SQL-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Machine Learning-F7DF1E?logo=white&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Hadoop-4479A1?logo=Hadoop&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="35" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="35" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=black&style=for-the-badge" height="35" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="35" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Data Warehousing-21759B?logo=white&logoColor=white&style=for-the-badge" height="35" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-4EAA25?logo=Git&logoColor=white&style=for-the-badge" height="35" alt="bash logo"  />
-</div>
-<br>
+---
 
-
-
-
-
-
-
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=UjjwalPamecha&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UjjwalPamecha&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalPamecha&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=UjjwalPamecha&limit=5&theme=radical&combine_all_yearly_contributions=true)<br/>
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=UjjwalPamecha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
-
-
+⭐ *Focused on building clean, reliable data pipelines and analytics solutions.*
 
