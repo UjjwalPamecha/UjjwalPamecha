@@ -25,7 +25,7 @@ My current focus is on strengthening **scalable data processing and big data fun
 **Omnexia Technologies** — Bengaluru, India  
 **November 2024 – Present**
 
-- Led and mentored junior data analysts and interns, ensuring high data accuracy and timely delivery.  
+- Led and mentored junior data analysts and interns, ensuring high data accuracy and timely project delivery.  
 - Designed and executed **end-to-end data extraction pipelines** using **SQL and Python** to collect large-scale, real-world data from databases, APIs, and web sources.  
 - Built and optimized **complex SQL queries** (joins, CTEs, subqueries, window functions) for data cleaning, transformation, and validation.  
 - Developed **interactive dashboards and reports** using **Power BI and Tableau** to track KPIs, trends, and operational performance.  
@@ -33,6 +33,18 @@ My current focus is on strengthening **scalable data processing and big data fun
 - Collaborated with product, operations, and management teams to translate business requirements into actionable analytics solutions.  
 - Automated recurring data collection and reporting tasks using **Python and SQL**, reducing manual effort and turnaround time.  
 - Oversaw structured data collection initiatives (200–300+ records per project) with daily progress tracking.
+
+---
+
+### **Data Analyst Intern**  
+**Reach Technologies**  
+**November 2024 – January 2025**
+
+- Collected, cleaned, and structured large datasets from multiple sources to ensure data accuracy and consistency.  
+- Conducted **exploratory data analysis (EDA)** to identify trends, patterns, and correlations in advertising and business performance data.  
+- Built **interactive dashboards and analytical reports** using **Tableau and Python (Matplotlib, Seaborn)**.  
+- Provided **data-driven insights and recommendations** to optimize advertising strategies, enhance campaign efficiency, and improve user experience.  
+- Supported business teams with analytical reporting and performance tracking.
 
 ---
 
@@ -74,8 +86,8 @@ My current focus is on strengthening **scalable data processing and big data fun
 
 ### 🔹 Customer Segmentation for an E-commerce Store
 - Designed a **SQL-based customer segmentation model** using transactional data.  
-- Classified customers into **High-, Medium-, and Low-Value segments** based on spending and order frequency.  
-- Identified one-time buyers and repeat customers to improve retention strategies.  
+- Classified customers into **High-, Medium-, and Low-Value segments** based on spending behavior and order frequency.  
+- Identified one-time buyers and frequent shoppers to improve retention strategies.  
 - Created a **Loyalty Score metric** using CTEs and CASE statements.  
 
 **Technologies:** SQL, Tableau  
