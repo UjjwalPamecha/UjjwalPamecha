@@ -72,7 +72,7 @@ My current focus is on strengthening **scalable data processing and big data fun
 
 ---
 
-## 🚀 Projects (As Per Resume)
+## 🚀 Projects 
 
 ### 🔹 Product Demand Prediction Using External Factors
 - Developed a predictive model to forecast product demand for an e-commerce platform.  
